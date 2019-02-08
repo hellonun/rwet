@@ -1,0 +1,37 @@
+﻿Dano: So I’m going to go into a symbiotic relationship with this data sucking monster. And that’s what I want you guys to do this week, alright? 
+
+
+Yeah Dan? 
+
+
+Dan Oved: Should we like tap into an existing data storage or device, or can we create our own?
+
+
+Dano: So yeah, that’s it. That’s the big question, um, so, you know, the truth is, um, it’s a fine line. Like why does Google have you doing all this stuff to kind of trigger you to make data. We are going to, a lot of what we’re going to, maybe I’ll show you some example. This will be better by example, um, show you, um, some example of triggering production of data. But the main answer to your question is, just use existing data this week. Next year, next week, I’m asking you to make new data. Like Google does not know your head is doing this. Next week I want to know if your head is doing, er, if you’re shaking your head. If next week, I’ll wanna know that. This week I just wanna know the stuff that google already knows. But go ahead, skip this week if you want. 
+
+
+Um, ok. So now I am going to click on the, um, week two. There’s a link called Textual Analysis. It’s also arrived at through the link at the top called ‘E-Unconscious’. So, um, what I want you to do is, here are some suggestions for, um, places to go and get your digital footprint. More and more these companies are, you know, there’s a movement like you should own your own data. So more and more companies have a backdoor for you to go in and harvest your, all the stuff that you’ve been putting up. So um, the first two things I’m suggesting is Google API. They’ll give your email, your locations, your search history, your calendar. I think calendar is interesting. Your browsing history, possibly, depending if you’re logged into the browser or not. There’s list so if you go to, I just click. And I’m gonna sign in. You guys remind me to sign out. 
+
+
+Antonio: What are you doing right now? 
+
+
+Dano: Right know I’m logging into NYU. I’m putting in my Net ID and password. 
+
+
+Dano: Brrr. 
+
+
+Caleb: It’s for your own safety. 
+
+
+Dano: Yes. So we’re gonna. So now I’m scrolling through the AP libraries that Google offers. So you guys might use this. There’s a bunch of things that, um, that they offer. The main example that I’m going to show you in a minute is using the mail API cause I feel like, like that’s the most number of words. When we look at textual analysis, it’s really only statistically in anyway valid is if you have a huge amount of words. So if you like, at least for me, email is, is the, has the most. 
+
+
+Ok, So I’m gonna go back to that page, The E-unconscious page. Ok, So I’m gonna go back to that E-Unconscious page. So one way to do that is to go through those APIS. So an API is the thing that gives you a bit of data when you ask for it. So I’ll show you how that works in a second. Another thing do you can do and get the same stuff is you go and download everything as one big file. So it gives you options, it’s called Google Takeout, I think. You go and it gives you Google drive, email, a bunch of zip big mount of your data. Facebook, I’m just going down the list of ‘Getting Your Data’ those links. So Facebook has an option for this. Twitter has an option. SMS is not as easy. I think you have to have something on your phone that, um, er, gives you your text messages. Keystroke logging is um, what it does is it listens for every key you press, which is you know, you’re really opening up your unconscious password and all. So you know, it’s something that you, it’s a leap of faith that you’re gonna trust cause that’s really, there is no filter there, like it’s all going. It’s interesting, I’ve seen a lot of interesting projects with keystroke live blogging. Or Kyle McDonald, you see that thing where you tweeted everything he typed, everything. Or I have this, a student in this class, he did this thing where every time he deleted something, he put it in a file and printed it out without reading it and put it on the wall for the show. 
+
+
+Packet sniffing is listening to the Wi-Fi. So things that are HTTPS you won’t hear but you will hear things that are statistics about the network traffic. And you can look at that. It doesn’t go beyond a switch. So you can probably see the computers in this room doing stuff. Mouse Movement, this is something that is, most of what I’m talking about today is words but people here have been talking about embodiment quite a lot. So how do you move and how fast you move are very important things. Voice Transcription, so you can just record yourself all day. This is a borderline between making data. This is like making data cause the truth is this is not yet data. So this might belong better next week. This is turning pictures into words, so you know, you can go onto ml5 and, um, have it classify where a camera, and just look at your visual diet and just name all the stuff that you looked at that day. It’s similar to the voice transmission. Implicit test, I put that in here, has anyone ever taken these implicit tests? They’re very fascinating. They will tell you that you are a racist. And you are a racist. So the way they work is, they work in different ways. A lot of it is like. They’ll put Irish, and they’ll put sober and you’ll have to click the button sober. And depending on how long it takes you to push that button. Like, er, I know I’m supposed to press it but something deep it me makes it a little hard to press it. So, um, test along those lines. 
+
+
+Alright so here are, um, here are some things you can do. So there’s the DIY analysis and off-the-shelf analysis. So there are tools that you can just paste code in. Mostly will be words that you’re harvesting I’m guessing. You guys might try different things. But, um, your digital footprint, a lot of it is in words. There’s a lot of pre-made tools. There’s, um, for getting stuff. This stuff I’m kind of hoping to be, you know so far we’ve spent almost two classes talking. But I would like you to develop your technical chops a little bit. So I would prefer you actually take a the stab at the, at doing this analysis yourself. So one thing that you can do, the example I’m gonna give you right here, hopefully this live demo will work. Ok, so what this is doing is it’s going into my email account. The reason it can go into my email account is, remember I logged in before. So I’m looking at the screen now that has the, um, the main thing I want you to see now is there’s a query field and it has the same stuff as, you know, when you’re doing a search in Gmail, all the same stuff that you can type in there, you can type in here.
